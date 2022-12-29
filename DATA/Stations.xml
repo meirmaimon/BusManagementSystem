@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stations>
+   <Station>
+      <id>85855</id>
+      <latitude>32.6306</latitude>
+      <longtitude>34.14255</longtitude>
+      <name>Tapir, brazilian</name>
+   </Station>
+   <Station>
+      <id>16792</id>
+      <latitude>32.19383</latitude>
+      <longtitude>34.94545</longtitude>
+      <name>Iguana, common green</name>
+   </Station>
+   <Station>
+      <id>20887</id>
+      <latitude>32.07817</latitude>
+      <longtitude>34.23575</longtitude>
+      <name>Quoll, eastern</name>
+   </Station>
+   <Station>
+      <id>27838</id>
+      <latitude>30.40251</latitude>
+      <longtitude>34.38808</longtitude>
+      <name>Armadillo, seven-banded</name>
+   </Station>
+   <Station>
+      <id>18126</id>
+      <latitude>30.26288</latitude>
+      <longtitude>34.62634</longtitude>
+      <name>Duck, comb</name>
+   </Station>
+   <Station>
+      <id>67339</id>
+      <latitude>29.36433</latitude>
+      <longtitude>34.20211</longtitude>
+      <name>Mongoose, javan gold-spotted</name>
+   </Station>
+   <Station>
+      <id>56697</id>
+      <latitude>31.09169</latitude>
+      <longtitude>34.27788</longtitude>
+      <name>Zorro, azara's</name>
+   </Station>
+   <Station>
+      <id>91018</id>
+      <latitude>31.02905</latitude>
+      <longtitude>34.95608</longtitude>
+      <name>Jaguarundi</name>
+   </Station>
+   <Station>
+      <id>69334</id>
+      <latitude>29.88758</latitude>
+      <longtitude>34.09098</longtitude>
+      <name>Python (unidentified)</name>
+   </Station>
+   <Station>
+      <id>90130</id>
+      <latitude>32.16452</latitude>
+      <longtitude>34.33699</longtitude>
+      <name>Black spider monkey</name>
+   </Station>
+   <Station>
+      <id>39119</id>
+      <latitude>29.37778</latitude>
+      <longtitude>34.50404</longtitude>
+      <name>Pied avocet</name>
+   </Station>
+   <Station>
+      <id>93344</id>
+      <latitude>30.25522</latitude>
+      <longtitude>34.41583</longtitude>
+      <name>Desert tortoise</name>
+   </Station>
+   <Station>
+      <id>64830</id>
+      <latitude>32.50736</latitude>
+      <longtitude>34.71018</longtitude>
+      <name>Lemur, brown</name>
+   </Station>
+   <Station>
+      <id>41068</id>
+      <latitude>32.8903</latitude>
+      <longtitude>34.5199</longtitude>
+      <name>Hartebeest, red</name>
+   </Station>
+   <Station>
+      <id>12080</id>
+      <latitude>31.32735</latitude>
+      <longtitude>34.45357</longtitude>
+      <name>Vulture, black</name>
+   </Station>
+   <Station>
+      <id>26747</id>
+      <latitude>31.72118</latitude>
+      <longtitude>34.80555</longtitude>
+      <name>White-throated monitor</name>
+   </Station>
+   <Station>
+      <id>20561</id>
+      <latitude>32.35944</latitude>
+      <longtitude>34.8617</longtitude>
+      <name>Crane, brolga</name>
+   </Station>
+   <Station>
+      <id>44904</id>
+      <latitude>29.19719</latitude>
+      <longtitude>34.87818</longtitude>
+      <name>Red squirrel</name>
+   </Station>
+   <Station>
+      <id>86563</id>
+      <latitude>32.05174</latitude>
+      <longtitude>34.53565</longtitude>
+      <name>African bush squirrel</name>
+   </Station>
+   <Station>
+      <id>63472</id>
+      <latitude>29.36349</latitude>
+      <longtitude>34.44645</longtitude>
+      <name>Pigeon, feral rock</name>
+   </Station>
+   <Station>
+      <id>45535</id>
+      <latitude>31.995</latitude>
+      <longtitude>34.43795</longtitude>
+      <name>Silver-backed fox</name>
+   </Station>
+   <Station>
+      <id>66248</id>
+      <latitude>30.03825</latitude>
+      <longtitude>34.29625</longtitude>
+      <name>Buffalo, african</name>
+   </Station>
+   <Station>
+      <id>41439</id>
+      <latitude>31.70422</latitude>
+      <longtitude>34.9026</longtitude>
+      <name>Brown pelican</name>
+   </Station>
+   <Station>
+      <id>94421</id>
+      <latitude>32.4028</latitude>
+      <longtitude>34.72093</longtitude>
+      <name>Arctic fox</name>
+   </Station>
+   <Station>
+      <id>31127</id>
+      <latitude>30.20795</latitude>
+      <longtitude>34.4265</longtitude>
+      <name>Asiatic wild ass</name>
+   </Station>
+   <Station>
+      <id>19739</id>
+      <latitude>32.27179</latitude>
+      <longtitude>34.12791</longtitude>
+      <name>Lizard, blue-tongued</name>
+   </Station>
+   <Station>
+      <id>54530</id>
+      <latitude>32.88178</latitude>
+      <longtitude>34.02611</longtitude>
+      <name>Asian water buffalo</name>
+   </Station>
+   <Station>
+      <id>25121</id>
+      <latitude>31.74978</latitude>
+      <longtitude>34.16018</longtitude>
+      <name>African lion</name>
+   </Station>
+   <Station>
+      <id>23286</id>
+      <latitude>31.73742</latitude>
+      <longtitude>34.58408</longtitude>
+      <name>Lion, steller's sea</name>
+   </Station>
+   <Station>
+      <id>73828</id>
+      <latitude>32.30215</latitude>
+      <longtitude>34.90571</longtitude>
+      <name>Lily trotter</name>
+   </Station>
+   <Station>
+      <id>14165</id>
+      <latitude>32.75804</latitude>
+      <longtitude>34.19169</longtitude>
+      <name>Turkey, common</name>
+   </Station>
+   <Station>
+      <id>27014</id>
+      <latitude>31.47568</latitude>
+      <longtitude>34.78146</longtitude>
+      <name>Mynah, common</name>
+   </Station>
+   <Station>
+      <id>69252</id>
+      <latitude>31.14838</latitude>
+      <longtitude>34.98048</longtitude>
+      <name>Antelope ground squirrel</name>
+   </Station>
+   <Station>
+      <id>77199</id>
+      <latitude>30.51942</latitude>
+      <longtitude>34.60668</longtitude>
+      <name>Kingfisher, pied</name>
+   </Station>
+   <Station>
+      <id>89038</id>
+      <latitude>31.10622</latitude>
+      <longtitude>34.44973</longtitude>
+      <name>Brazilian tapir</name>
+   </Station>
+   <Station>
+      <id>74929</id>
+      <latitude>29.38964</latitude>
+      <longtitude>34.6277</longtitude>
+      <name>Flying fox (unidentified)</name>
+   </Station>
+   <Station>
+      <id>78873</id>
+      <latitude>29.29578</latitude>
+      <longtitude>34.59799</longtitude>
+      <name>Skink, african</name>
+   </Station>
+   <Station>
+      <id>94825</id>
+      <latitude>29.67058</latitude>
+      <longtitude>34.51281</longtitude>
+      <name>Pelican, brown</name>
+   </Station>
+   <Station>
+      <id>48360</id>
+      <latitude>32.09212</latitude>
+      <longtitude>34.78412</longtitude>
+      <name>Arctic tern</name>
+   </Station>
+   <Station>
+      <id>34781</id>
+      <latitude>30.47461</latitude>
+      <longtitude>34.41662</longtitude>
+      <name>Urial</name>
+   </Station>
+   <Station>
+      <id>37341</id>
+      <latitude>32.88437</latitude>
+      <longtitude>34.62925</longtitude>
+      <name>Nyala</name>
+   </Station>
+   <Station>
+      <id>98468</id>
+      <latitude>31.9191</latitude>
+      <longtitude>34.20654</longtitude>
+      <name>Mongoose, small indian</name>
+   </Station>
+   <Station>
+      <id>60984</id>
+      <latitude>32.06797</latitude>
+      <longtitude>34.54451</longtitude>
+      <name>Sockeye salmon</name>
+   </Station>
+   <Station>
+      <id>33870</id>
+      <latitude>32.16005</latitude>
+      <longtitude>34.68571</longtitude>
+      <name>Chilean flamingo</name>
+   </Station>
+   <Station>
+      <id>39624</id>
+      <latitude>31.30139</latitude>
+      <longtitude>34.6946</longtitude>
+      <name>Baleen whale</name>
+   </Station>
+   <Station>
+      <id>15073</id>
+      <latitude>30.81895</latitude>
+      <longtitude>34.89798</longtitude>
+      <name>Toddy cat</name>
+   </Station>
+   <Station>
+      <id>57669</id>
+      <latitude>32.36268</latitude>
+      <longtitude>34.83166</longtitude>
+      <name>Eastern fox squirrel</name>
+   </Station>
+   <Station>
+      <id>10992</id>
+      <latitude>31.17686</latitude>
+      <longtitude>34.69962</longtitude>
+      <name>White-throated toucan</name>
+   </Station>
+   <Station>
+      <id>30889</id>
+      <latitude>31.18988</latitude>
+      <longtitude>34.97686</longtitude>
+      <name>Echidna, short-beaked</name>
+   </Station>
+   <Station>
+      <id>82199</id>
+      <latitude>31.66922</latitude>
+      <longtitude>34.89026</longtitude>
+      <name>Starling, greater blue-eared</name>
+   </Station>
+   <Station>
+      <id>89146</id>
+      <latitude>29.3383</latitude>
+      <longtitude>34.77454</longtitude>
+      <name>Pigeon, feral rock</name>
+   </Station>
+   <Station>
+      <id>67212</id>
+      <latitude>30.07047</latitude>
+      <longtitude>34.93265</longtitude>
+      <name>Spotted hyena</name>
+   </Station>
+   <Station>
+      <id>43505</id>
+      <latitude>29.02615</latitude>
+      <longtitude>34.63654</longtitude>
+      <name>Macaque, pig-tailed</name>
+   </Station>
+   <Station>
+      <id>76924</id>
+      <latitude>30.88217</latitude>
+      <longtitude>34.51537</longtitude>
+      <name>Gambel's quail</name>
+   </Station>
+   <Station>
+      <id>30054</id>
+      <latitude>31.14284</latitude>
+      <longtitude>34.1728</longtitude>
+      <name>Eastern indigo snake</name>
+   </Station>
+   <Station>
+      <id>85220</id>
+      <latitude>32.65548</latitude>
+      <longtitude>34.7913</longtitude>
+      <name>Mocking cliffchat</name>
+   </Station>
+   <Station>
+      <id>71922</id>
+      <latitude>30.3981</latitude>
+      <longtitude>34.21206</longtitude>
+      <name>Long-necked turtle</name>
+   </Station>
+   <Station>
+      <id>58279</id>
+      <latitude>31.15901</latitude>
+      <longtitude>34.09079</longtitude>
+      <name>Savannah deer</name>
+   </Station>
+   <Station>
+      <id>31614</id>
+      <latitude>30.88259</latitude>
+      <longtitude>34.47094</longtitude>
+      <name>Goliath heron</name>
+   </Station>
+   <Station>
+      <id>26622</id>
+      <latitude>29.31432</latitude>
+      <longtitude>34.38805</longtitude>
+      <name>Snake, carpet</name>
+   </Station>
+   <Station>
+      <id>84437</id>
+      <latitude>31.87397</latitude>
+      <longtitude>34.36915</longtitude>
+      <name>Stork, saddle-billed</name>
+   </Station>
+   <Station>
+      <id>60698</id>
+      <latitude>30.59211</latitude>
+      <longtitude>34.75628</longtitude>
+      <name>Antechinus, brown</name>
+   </Station>
+   <Station>
+      <id>57406</id>
+      <latitude>30.76005</latitude>
+      <longtitude>34.6733</longtitude>
+      <name>Tawny frogmouth</name>
+   </Station>
+   <Station>
+      <id>47479</id>
+      <latitude>32.64629</latitude>
+      <longtitude>34.68173</longtitude>
+      <name>Javan gold-spotted mongoose</name>
+   </Station>
+   <Station>
+      <id>56261</id>
+      <latitude>30.09847</latitude>
+      <longtitude>34.28648</longtitude>
+      <name>Snowy owl</name>
+   </Station>
+   <Station>
+      <id>54054</id>
+      <latitude>31.86407</latitude>
+      <longtitude>34.86746</longtitude>
+      <name>Rhinoceros, white</name>
+   </Station>
+   <Station>
+      <id>34255</id>
+      <latitude>29.62493</latitude>
+      <longtitude>34.52194</longtitude>
+      <name>Ground legaan</name>
+   </Station>
+   <Station>
+      <id>34020</id>
+      <latitude>29.95057</latitude>
+      <longtitude>34.19167</longtitude>
+      <name>African bush squirrel</name>
+   </Station>
+   <Station>
+      <id>78308</id>
+      <latitude>29.56944</latitude>
+      <longtitude>34.31147</longtitude>
+      <name>White-fronted capuchin</name>
+   </Station>
+   <Station>
+      <id>55902</id>
+      <latitude>32.1726</latitude>
+      <longtitude>34.40166</longtitude>
+      <name>Yellow-headed caracara</name>
+   </Station>
+   <Station>
+      <id>39796</id>
+      <latitude>31.56086</latitude>
+      <longtitude>34.14785</longtitude>
+      <name>Sandhill crane</name>
+   </Station>
+   <Station>
+      <id>68698</id>
+      <latitude>32.99516</latitude>
+      <longtitude>34.23328</longtitude>
+      <name>Raccoon, crab-eating</name>
+   </Station>
+   <Station>
+      <id>50732</id>
+      <latitude>29.59547</latitude>
+      <longtitude>34.60004</longtitude>
+      <name>Chimpanzee</name>
+   </Station>
+   <Station>
+      <id>48888</id>
+      <latitude>30.56731</latitude>
+      <longtitude>34.67565</longtitude>
+      <name>Asian red fox</name>
+   </Station>
+   <Station>
+      <id>48856</id>
+      <latitude>31.85233</latitude>
+      <longtitude>34.23399</longtitude>
+      <name>Cardinal, black-throated</name>
+   </Station>
+   <Station>
+      <id>11423</id>
+      <latitude>30.09195</latitude>
+      <longtitude>34.42752</longtitude>
+      <name>American badger</name>
+   </Station>
+   <Station>
+      <id>11136</id>
+      <latitude>31.51036</latitude>
+      <longtitude>34.96317</longtitude>
+      <name>Little blue penguin</name>
+   </Station>
+   <Station>
+      <id>14239</id>
+      <latitude>31.60285</latitude>
+      <longtitude>34.71498</longtitude>
+      <name>Sulfur-crested cockatoo</name>
+   </Station>
+   <Station>
+      <id>39881</id>
+      <latitude>31.74664</latitude>
+      <longtitude>34.34078</longtitude>
+      <name>Common rhea</name>
+   </Station>
+   <Station>
+      <id>54955</id>
+      <latitude>32.73589</latitude>
+      <longtitude>34.62684</longtitude>
+      <name>Little cormorant</name>
+   </Station>
+   <Station>
+      <id>34340</id>
+      <latitude>31.27261</latitude>
+      <longtitude>34.85061</longtitude>
+      <name>Southern white-crowned shrike</name>
+   </Station>
+   <Station>
+      <id>63731</id>
+      <latitude>32.32112</latitude>
+      <longtitude>34.94656</longtitude>
+      <name>Gray langur</name>
+   </Station>
+   <Station>
+      <id>78534</id>
+      <latitude>32.46466</latitude>
+      <longtitude>34.82347</longtitude>
+      <name>Pale-throated three-toed sloth</name>
+   </Station>
+   <Station>
+      <id>78807</id>
+      <latitude>32.75107</latitude>
+      <longtitude>34.51981</longtitude>
+      <name>Genoveva</name>
+   </Station>
+   <Station>
+      <id>84225</id>
+      <latitude>31.81461</latitude>
+      <longtitude>34.69604</longtitude>
+      <name>Blue fox</name>
+   </Station>
+   <Station>
+      <id>61986</id>
+      <latitude>30.40669</latitude>
+      <longtitude>34.18947</longtitude>
+      <name>Brown brocket</name>
+   </Station>
+   <Station>
+      <id>37660</id>
+      <latitude>30.00542</latitude>
+      <longtitude>34.21005</longtitude>
+      <name>Hornbill, leadbeateri's ground</name>
+   </Station>
+   <Station>
+      <id>14033</id>
+      <latitude>30.05364</latitude>
+      <longtitude>34.64826</longtitude>
+      <name>Eastern boa constrictor</name>
+   </Station>
+   <Station>
+      <id>25057</id>
+      <latitude>29.08854</latitude>
+      <longtitude>34.41605</longtitude>
+      <name>Macaw, red and blue</name>
+   </Station>
+   <Station>
+      <id>15129</id>
+      <latitude>31.73448</latitude>
+      <longtitude>34.74382</longtitude>
+      <name>Dolphin, common</name>
+   </Station>
+   <Station>
+      <id>19718</id>
+      <latitude>32.99704</latitude>
+      <longtitude>34.46442</longtitude>
+      <name>Paradoxure</name>
+   </Station>
+   <Station>
+      <id>73300</id>
+      <latitude>31.2629</latitude>
+      <longtitude>34.38816</longtitude>
+      <name>Butterfly (unidentified)</name>
+   </Station>
+   <Station>
+      <id>65683</id>
+      <latitude>30.24312</latitude>
+      <longtitude>34.84942</longtitude>
+      <name>Red-breasted nuthatch</name>
+   </Station>
+   <Station>
+      <id>72146</id>
+      <latitude>30.55184</latitude>
+      <longtitude>34.11249</longtitude>
+      <name>Plover, three-banded</name>
+   </Station>
+   <Station>
+      <id>63811</id>
+      <latitude>32.37986</latitude>
+      <longtitude>34.32105</longtitude>
+      <name>Dove, ring</name>
+   </Station>
+   <Station>
+      <id>64159</id>
+      <latitude>32.77959</latitude>
+      <longtitude>34.82136</longtitude>
+      <name>Heron, green-backed</name>
+   </Station>
+   <Station>
+      <id>10530</id>
+      <latitude>32.03827</latitude>
+      <longtitude>34.42298</longtitude>
+      <name>Monitor, two-banded</name>
+   </Station>
+   <Station>
+      <id>29072</id>
+      <latitude>31.7877</latitude>
+      <longtitude>34.45807</longtitude>
+      <name>Whale, baleen</name>
+   </Station>
+   <Station>
+      <id>29407</id>
+      <latitude>31.92283</latitude>
+      <longtitude>34.29809</longtitude>
+      <name>Sidewinder</name>
+   </Station>
+   <Station>
+      <id>78062</id>
+      <latitude>30.95223</latitude>
+      <longtitude>34.01214</longtitude>
+      <name>Currasow (unidentified)</name>
+   </Station>
+   <Station>
+      <id>44689</id>
+      <latitude>32.31969</latitude>
+      <longtitude>34.04867</longtitude>
+      <name>Common boubou shrike</name>
+   </Station>
+   <Station>
+      <id>19649</id>
+      <latitude>32.49021</latitude>
+      <longtitude>34.07299</longtitude>
+      <name>Small-spotted genet</name>
+   </Station>
+   <Station>
+      <id>70352</id>
+      <latitude>29.16123</latitude>
+      <longtitude>34.72157</longtitude>
+      <name>Cardinal, red-capped</name>
+   </Station>
+   <Station>
+      <id>61421</id>
+      <latitude>31.51385</latitude>
+      <longtitude>34.66103</longtitude>
+      <name>Burchell's gonolek</name>
+   </Station>
+   <Station>
+      <id>88766</id>
+      <latitude>30.14851</latitude>
+      <longtitude>34.12325</longtitude>
+      <name>Mongoose, yellow</name>
+   </Station>
+   <Station>
+      <id>55055</id>
+      <latitude>32.30695</latitude>
+      <longtitude>34.99981</longtitude>
+      <name>Rhesus macaque</name>
+   </Station>
+   <Station>
+      <id>58579</id>
+      <latitude>31.75917</latitude>
+      <longtitude>34.60301</longtitude>
+      <name>Indian star tortoise</name>
+   </Station>
+   <Station>
+      <id>46935</id>
+      <latitude>31.1149</latitude>
+      <longtitude>34.42896</longtitude>
+      <name>American black bear</name>
+   </Station>
+   <Station>
+      <id>90537</id>
+      <latitude>32.66405</latitude>
+      <longtitude>34.90556</longtitude>
+      <name>American Virginia opossum</name>
+   </Station>
+   <Station>
+      <id>58786</id>
+      <latitude>30.13948</latitude>
+      <longtitude>34.95297</longtitude>
+      <name>Deer, red</name>
+   </Station>
+   <Station>
+      <id>92826</id>
+      <latitude>30.05551</latitude>
+      <longtitude>34.63376</longtitude>
+      <name>Four-horned antelope</name>
+   </Station>
+   <Station>
+      <id>67538</id>
+      <latitude>29.36141</latitude>
+      <longtitude>34.05162</longtitude>
+      <name>Duiker, common</name>
+   </Station>
+   <Station>
+      <id>59329</id>
+      <latitude>31.56304</latitude>
+      <longtitude>34.4751</longtitude>
+      <name>Japanese macaque</name>
+   </Station>
+   <Station>
+      <id>74616</id>
+      <latitude>31.13725</latitude>
+      <longtitude>34.80446</longtitude>
+      <name>Hare, arctic</name>
+   </Station>
+   <Station>
+      <id>25771</id>
+      <latitude>31.5964</latitude>
+      <longtitude>34.74063</longtitude>
+      <name>Pied avocet</name>
+   </Station>
+   <Station>
+      <id>38272</id>
+      <latitude>29.01337</latitude>
+      <longtitude>34.48392</longtitude>
+      <name>Gemsbok</name>
+   </Station>
+   <Station>
+      <id>72198</id>
+      <latitude>30.63496</latitude>
+      <longtitude>34.73429</longtitude>
+      <name>African red-eyed bulbul</name>
+   </Station>
+   <Station>
+      <id>90420</id>
+      <latitude>32.20254</latitude>
+      <longtitude>34.66026</longtitude>
+      <name>Brown hyena</name>
+   </Station>
+   <Station>
+      <id>51161</id>
+      <latitude>31.33579</latitude>
+      <longtitude>34.35996</longtitude>
+      <name>Gaur</name>
+   </Station>
+   <Station>
+      <id>30423</id>
+      <latitude>30.47842</latitude>
+      <longtitude>34.6934</longtitude>
+      <name>Native cat</name>
+   </Station>
+   <Station>
+      <id>13148</id>
+      <latitude>32.54339</latitude>
+      <longtitude>34.81146</longtitude>
+      <name>Giant heron</name>
+   </Station>
+   <Station>
+      <id>28449</id>
+      <latitude>30.68309</latitude>
+      <longtitude>34.55869</longtitude>
+      <name>Ibis, sacred</name>
+   </Station>
+   <Station>
+      <id>43727</id>
+      <latitude>31.61567</latitude>
+      <longtitude>34.75941</longtitude>
+      <name>Western lowland gorilla</name>
+   </Station>
+   <Station>
+      <id>63718</id>
+      <latitude>32.99199</latitude>
+      <longtitude>34.87145</longtitude>
+      <name>Raccoon, common</name>
+   </Station>
+   <Station>
+      <id>26651</id>
+      <latitude>29.61324</latitude>
+      <longtitude>34.28789</longtitude>
+      <name>Tern, white-winged black</name>
+   </Station>
+   <Station>
+      <id>23133</id>
+      <latitude>32.28949</latitude>
+      <longtitude>34.82869</longtitude>
+      <name>Scarlet macaw</name>
+   </Station>
+   <Station>
+      <id>76592</id>
+      <latitude>31.11857</latitude>
+      <longtitude>34.79001</longtitude>
+      <name>Bleeding heart monkey</name>
+   </Station>
+   <Station>
+      <id>31781</id>
+      <latitude>31.07747</latitude>
+      <longtitude>34.20366</longtitude>
+      <name>Red-winged hawk (unidentified)</name>
+   </Station>
+   <Station>
+      <id>15495</id>
+      <latitude>32.52789</latitude>
+      <longtitude>34.11816</longtitude>
+      <name>Cape white-eye</name>
+   </Station>
+   <Station>
+      <id>92805</id>
+      <latitude>29.48191</latitude>
+      <longtitude>34.94556</longtitude>
+      <name>Crane, sarus</name>
+   </Station>
+   <Station>
+      <id>39632</id>
+      <latitude>30.37772</latitude>
+      <longtitude>34.64095</longtitude>
+      <name>Rhea, common</name>
+   </Station>
+   <Station>
+      <id>81701</id>
+      <latitude>31.1767</latitude>
+      <longtitude>34.86733</longtitude>
+      <name>Serval</name>
+   </Station>
+   <Station>
+      <id>88130</id>
+      <latitude>30.7042</latitude>
+      <longtitude>34.32325</longtitude>
+      <name>Asian lion</name>
+   </Station>
+   <Station>
+      <id>36094</id>
+      <latitude>30.44544</latitude>
+      <longtitude>34.67179</longtitude>
+      <name>Kingfisher, white-throated</name>
+   </Station>
+   <Station>
+      <id>44609</id>
+      <latitude>32.29165</latitude>
+      <longtitude>34.64757</longtitude>
+      <name>Sacred ibis</name>
+   </Station>
+   <Station>
+      <id>71298</id>
+      <latitude>30.77516</latitude>
+      <longtitude>34.56727</longtitude>
+      <name>Black-footed ferret</name>
+   </Station>
+   <Station>
+      <id>41386</id>
+      <latitude>29.97088</latitude>
+      <longtitude>34.58671</longtitude>
+      <name>Leadbeateri's ground hornbill</name>
+   </Station>
+   <Station>
+      <id>32002</id>
+      <latitude>30.66378</latitude>
+      <longtitude>34.60779</longtitude>
+      <name>Dusky rattlesnake</name>
+   </Station>
+   <Station>
+      <id>54720</id>
+      <latitude>32.93075</latitude>
+      <longtitude>34.82515</longtitude>
+      <name>Coke's hartebeest</name>
+   </Station>
+   <Station>
+      <id>60822</id>
+      <latitude>30.91333</latitude>
+      <longtitude>34.29973</longtitude>
+      <name>Marmot, hoary</name>
+   </Station>
+   <Station>
+      <id>59449</id>
+      <latitude>30.94656</latitude>
+      <longtitude>34.52792</longtitude>
+      <name>Hen, sage</name>
+   </Station>
+   <Station>
+      <id>75446</id>
+      <latitude>29.35696</latitude>
+      <longtitude>34.54985</longtitude>
+      <name>Giant heron</name>
+   </Station>
+   <Station>
+      <id>53359</id>
+      <latitude>29.9006</latitude>
+      <longtitude>34.43371</longtitude>
+      <name>Galah</name>
+   </Station>
+   <Station>
+      <id>84567</id>
+      <latitude>29.21641</latitude>
+      <longtitude>34.51117</longtitude>
+      <name>Beisa oryx</name>
+   </Station>
+   <Station>
+      <id>55322</id>
+      <latitude>29.54824</latitude>
+      <longtitude>34.19746</longtitude>
+      <name>Red-tailed cockatoo</name>
+   </Station>
+   <Station>
+      <id>47180</id>
+      <latitude>32.80729</latitude>
+      <longtitude>34.06847</longtitude>
+      <name>Black-throated butcher bird</name>
+   </Station>
+   <Station>
+      <id>61653</id>
+      <latitude>31.9918</latitude>
+      <longtitude>34.97561</longtitude>
+      <name>Blue catfish</name>
+   </Station>
+   <Station>
+      <id>18079</id>
+      <latitude>29.8035</latitude>
+      <longtitude>34.57827</longtitude>
+      <name>Sarus crane</name>
+   </Station>
+   <Station>
+      <id>40659</id>
+      <latitude>31.07225</latitude>
+      <longtitude>34.45707</longtitude>
+      <name>Stork, white</name>
+   </Station>
+   <Station>
+      <id>74186</id>
+      <latitude>30.60504</latitude>
+      <longtitude>34.66996</longtitude>
+      <name>Goose, andean</name>
+   </Station>
+   <Station>
+      <id>70700</id>
+      <latitude>32.66299</latitude>
+      <longtitude>34.17261</longtitude>
+      <name>White-headed vulture</name>
+   </Station>
+   <Station>
+      <id>13981</id>
+      <latitude>29.04344</latitude>
+      <longtitude>34.09065</longtitude>
+      <name>Caribou</name>
+   </Station>
+   <Station>
+      <id>24025</id>
+      <latitude>30.57702</latitude>
+      <longtitude>34.28866</longtitude>
+      <name>Capybara</name>
+   </Station>
+   <Station>
+      <id>15789</id>
+      <latitude>31.3066</latitude>
+      <longtitude>34.72733</longtitude>
+      <name>Wild water buffalo</name>
+   </Station>
+   <Station>
+      <id>73517</id>
+      <latitude>31.09998</latitude>
+      <longtitude>34.03708</longtitude>
+      <name>American marten</name>
+   </Station>
+   <Station>
+      <id>21239</id>
+      <latitude>30.15199</latitude>
+      <longtitude>34.30768</longtitude>
+      <name>Osprey</name>
+   </Station>
+   <Station>
+      <id>88595</id>
+      <latitude>30.57968</latitude>
+      <longtitude>34.94279</longtitude>
+      <name>Swallow-tail gull</name>
+   </Station>
+   <Station>
+      <id>66609</id>
+      <latitude>31.34039</latitude>
+      <longtitude>34.95616</longtitude>
+      <name>Monitor, two-banded</name>
+   </Station>
+   <Station>
+      <id>65177</id>
+      <latitude>30.90483</latitude>
+      <longtitude>34.61716</longtitude>
+      <name>American bighorn sheep</name>
+   </Station>
+   <Station>
+      <id>65242</id>
+      <latitude>31.06636</latitude>
+      <longtitude>34.52852</longtitude>
+      <name>Mongoose, eastern dwarf</name>
+   </Station>
+   <Station>
+      <id>75394</id>
+      <latitude>32.43208</latitude>
+      <longtitude>34.62351</longtitude>
+      <name>Wolf, mexican</name>
+   </Station>
+   <Station>
+      <id>48814</id>
+      <latitude>29.01329</latitude>
+      <longtitude>34.97082</longtitude>
+      <name>Peacock, indian</name>
+   </Station>
+   <Station>
+      <id>44714</id>
+      <latitude>31.12585</latitude>
+      <longtitude>34.50021</longtitude>
+      <name>Kinkajou</name>
+   </Station>
+   <Station>
+      <id>41530</id>
+      <latitude>30.42214</latitude>
+      <longtitude>34.36195</longtitude>
+      <name>Common pheasant</name>
+   </Station>
+   <Station>
+      <id>80947</id>
+      <latitude>32.16429</latitude>
+      <longtitude>34.95883</longtitude>
+      <name>Violet-eared waxbill</name>
+   </Station>
+   <Station>
+      <id>43028</id>
+      <latitude>31.55806</latitude>
+      <longtitude>34.46286</longtitude>
+      <name>Savanna fox</name>
+   </Station>
+   <Station>
+      <id>36022</id>
+      <latitude>30.35882</latitude>
+      <longtitude>34.39752</longtitude>
+      <name>Gecko, tokay</name>
+   </Station>
+   <Station>
+      <id>82420</id>
+      <latitude>29.27472</latitude>
+      <longtitude>34.15589</longtitude>
+      <name>Coqui partridge</name>
+   </Station>
+   <Station>
+      <id>35848</id>
+      <latitude>32.89005</latitude>
+      <longtitude>34.81091</longtitude>
+      <name>Falcon, prairie</name>
+   </Station>
+   <Station>
+      <id>86945</id>
+      <latitude>29.55888</latitude>
+      <longtitude>34.62136</longtitude>
+      <name>Goose, greylag</name>
+   </Station>
+   <Station>
+      <id>12065</id>
+      <latitude>30.52849</latitude>
+      <longtitude>34.44145</longtitude>
+      <name>Steenbuck</name>
+   </Station>
+   <Station>
+      <id>67049</id>
+      <latitude>32.36361</latitude>
+      <longtitude>34.86777</longtitude>
+      <name>Crane, sarus</name>
+   </Station>
+   <Station>
+      <id>46537</id>
+      <latitude>32.23305</latitude>
+      <longtitude>34.07602</longtitude>
+      <name>Lion, australian sea</name>
+   </Station>
+   <Station>
+      <id>13110</id>
+      <latitude>31.34194</latitude>
+      <longtitude>34.92768</longtitude>
+      <name>Monitor, white-throated</name>
+   </Station>
+   <Station>
+      <id>13021</id>
+      <latitude>31.83053</latitude>
+      <longtitude>34.12033</longtitude>
+      <name>Deer, black-tailed</name>
+   </Station>
+   <Station>
+      <id>35392</id>
+      <latitude>31.40522</latitude>
+      <longtitude>34.42739</longtitude>
+      <name>Capuchin, weeper</name>
+   </Station>
+   <Station>
+      <id>16988</id>
+      <latitude>30.00494</latitude>
+      <longtitude>34.24004</longtitude>
+      <name>Capuchin, brown</name>
+   </Station>
+   <Station>
+      <id>29765</id>
+      <latitude>30.06673</latitude>
+      <longtitude>34.63868</longtitude>
+      <name>Short-beaked echidna</name>
+   </Station>
+   <Station>
+      <id>51688</id>
+      <latitude>30.56813</latitude>
+      <longtitude>34.72181</longtitude>
+      <name>Wallaby, whip-tailed</name>
+   </Station>
+   <Station>
+      <id>88769</id>
+      <latitude>29.10608</latitude>
+      <longtitude>34.60637</longtitude>
+      <name>Woodchuck</name>
+   </Station>
+   <Station>
+      <id>44521</id>
+      <latitude>30.24237</latitude>
+      <longtitude>34.4276</longtitude>
+      <name>Chacma baboon</name>
+   </Station>
+   <Station>
+      <id>14070</id>
+      <latitude>29.01246</latitude>
+      <longtitude>34.48402</longtitude>
+      <name>Swallow (unidentified)</name>
+   </Station>
+   <Station>
+      <id>91249</id>
+      <latitude>31.72957</latitude>
+      <longtitude>34.55955</longtitude>
+      <name>Pigeon, wood</name>
+   </Station>
+   <Station>
+      <id>41231</id>
+      <latitude>30.14541</latitude>
+      <longtitude>34.49884</longtitude>
+      <name>Rattlesnake, eastern diamondback</name>
+   </Station>
+   <Station>
+      <id>43114</id>
+      <latitude>29.86081</latitude>
+      <longtitude>34.36856</longtitude>
+      <name>Eagle, bald</name>
+   </Station>
+   <Station>
+      <id>63897</id>
+      <latitude>32.00596</latitude>
+      <longtitude>34.90176</longtitude>
+      <name>Eagle, african fish</name>
+   </Station>
+   <Station>
+      <id>76938</id>
+      <latitude>32.51694</latitude>
+      <longtitude>34.20235</longtitude>
+      <name>Red kangaroo</name>
+   </Station>
+   <Station>
+      <id>71946</id>
+      <latitude>32.97332</latitude>
+      <longtitude>34.09492</longtitude>
+      <name>Macaque, pig-tailed</name>
+   </Station>
+   <Station>
+      <id>95190</id>
+      <latitude>31.01495</latitude>
+      <longtitude>34.04116</longtitude>
+      <name>White-browed sparrow weaver</name>
+   </Station>
+   <Station>
+      <id>69580</id>
+      <latitude>30.68677</latitude>
+      <longtitude>34.70721</longtitude>
+      <name>Tropical buckeye butterfly</name>
+   </Station>
+   <Station>
+      <id>25396</id>
+      <latitude>31.79313</latitude>
+      <longtitude>34.2574</longtitude>
+      <name>Deer, spotted</name>
+   </Station>
+   <Station>
+      <id>96871</id>
+      <latitude>31.39527</latitude>
+      <longtitude>34.94756</longtitude>
+      <name>Cormorant, pied</name>
+   </Station>
+   <Station>
+      <id>16878</id>
+      <latitude>29.67605</latitude>
+      <longtitude>34.79872</longtitude>
+      <name>Ornate rock dragon</name>
+   </Station>
+   <Station>
+      <id>59184</id>
+      <latitude>30.24457</latitude>
+      <longtitude>34.35741</longtitude>
+      <name>Tayra</name>
+   </Station>
+   <Station>
+      <id>14011</id>
+      <latitude>30.81616</latitude>
+      <longtitude>34.7899</longtitude>
+      <name>Bird, magnificent frigate</name>
+   </Station>
+   <Station>
+      <id>17422</id>
+      <latitude>30.35597</latitude>
+      <longtitude>34.62251</longtitude>
+      <name>Eagle, bateleur</name>
+   </Station>
+   <Station>
+      <id>10682</id>
+      <latitude>32.82423</latitude>
+      <longtitude>34.28005</longtitude>
+      <name>Eagle, golden</name>
+   </Station>
+   <Station>
+      <id>81741</id>
+      <latitude>32.43223</latitude>
+      <longtitude>34.39782</longtitude>
+      <name>Eagle, african fish</name>
+   </Station>
+   <Station>
+      <id>96948</id>
+      <latitude>31.72873</latitude>
+      <longtitude>34.55547</longtitude>
+      <name>Robin, white-throated</name>
+   </Station>
+   <Station>
+      <id>92150</id>
+      <latitude>32.80655</latitude>
+      <longtitude>34.99395</longtitude>
+      <name>Argalis</name>
+   </Station>
+   <Station>
+      <id>97518</id>
+      <latitude>30.94478</latitude>
+      <longtitude>34.96092</longtitude>
+      <name>Lourie, grey</name>
+   </Station>
+   <Station>
+      <id>38671</id>
+      <latitude>29.50474</latitude>
+      <longtitude>34.3339</longtitude>
+      <name>Legaan, water</name>
+   </Station>
+   <Station>
+      <id>38359</id>
+      <latitude>30.20408</latitude>
+      <longtitude>34.7049</longtitude>
+      <name>Zebra, plains</name>
+   </Station>
+   <Station>
+      <id>53652</id>
+      <latitude>30.26974</latitude>
+      <longtitude>34.27742</longtitude>
+      <name>Kookaburra, laughing</name>
+   </Station>
+   <Station>
+      <id>94095</id>
+      <latitude>32.26324</latitude>
+      <longtitude>34.42686</longtitude>
+      <name>Kangaroo, black-faced</name>
+   </Station>
+   <Station>
+      <id>11633</id>
+      <latitude>29.91937</latitude>
+      <longtitude>34.99292</longtitude>
+      <name>White-nosed coatimundi</name>
+   </Station>
+   <Station>
+      <id>88618</id>
+      <latitude>30.27975</latitude>
+      <longtitude>34.10068</longtitude>
+      <name>White-nosed coatimundi</name>
+   </Station>
+   <Station>
+      <id>59552</id>
+      <latitude>31.75322</latitude>
+      <longtitude>34.8078</longtitude>
+      <name>Marmot, yellow-bellied</name>
+   </Station>
+   <Station>
+      <id>11126</id>
+      <latitude>32.88542</latitude>
+      <longtitude>34.83955</longtitude>
+      <name>Honey badger</name>
+   </Station>
+   <Station>
+      <id>56672</id>
+      <latitude>29.80486</latitude>
+      <longtitude>34.06311</longtitude>
+      <name>Lechwe, kafue flats</name>
+   </Station>
+   <Station>
+      <id>69570</id>
+      <latitude>30.90219</latitude>
+      <longtitude>34.69199</longtitude>
+      <name>Fringe-eared oryx</name>
+   </Station>
+   <Station>
+      <id>53156</id>
+      <latitude>32.37877</latitude>
+      <longtitude>34.1605</longtitude>
+      <name>Badger, eurasian</name>
+   </Station>
+   <Station>
+      <id>15401</id>
+      <latitude>30.26777</latitude>
+      <longtitude>34.35176</longtitude>
+      <name>Coqui partridge</name>
+   </Station>
+   <Station>
+      <id>37261</id>
+      <latitude>31.80661</latitude>
+      <longtitude>34.19778</longtitude>
+      <name>Pie, indian tree</name>
+   </Station>
+   <Station>
+      <id>13923</id>
+      <latitude>32.52786</latitude>
+      <longtitude>34.43485</longtitude>
+      <name>Waterbuck, defassa</name>
+   </Station>
+   <Station>
+      <id>78791</id>
+      <latitude>31.14762</latitude>
+      <longtitude>34.89968</longtitude>
+      <name>Rufous-collared sparrow</name>
+   </Station>
+   <Station>
+      <id>88677</id>
+      <latitude>32.52409</latitude>
+      <longtitude>34.31017</longtitude>
+      <name>Striped dolphin</name>
+   </Station>
+   <Station>
+      <id>93059</id>
+      <latitude>31.98543</latitude>
+      <longtitude>34.07431</longtitude>
+      <name>Cockatoo, roseate</name>
+   </Station>
+   <Station>
+      <id>30069</id>
+      <latitude>32.80196</latitude>
+      <longtitude>34.9599</longtitude>
+      <name>Tenrec, tailless</name>
+   </Station>
+   <Station>
+      <id>70268</id>
+      <latitude>29.26094</latitude>
+      <longtitude>34.73418</longtitude>
+      <name>Plover, three-banded</name>
+   </Station>
+   <Station>
+      <id>33413</id>
+      <latitude>32.11469</latitude>
+      <longtitude>34.85146</longtitude>
+      <name>Fisher</name>
+   </Station>
+   <Station>
+      <id>65058</id>
+      <latitude>30.77105</latitude>
+      <longtitude>34.42099</longtitude>
+      <name>Crowned hawk-eagle</name>
+   </Station>
+   <Station>
+      <id>25721</id>
+      <latitude>29.42979</latitude>
+      <longtitude>34.96256</longtitude>
+      <name>Chuckwalla</name>
+   </Station>
+   <Station>
+      <id>97358</id>
+      <latitude>31.53776</latitude>
+      <longtitude>34.99398</longtitude>
+      <name>Sally lightfoot crab</name>
+   </Station>
+   <Station>
+      <id>46303</id>
+      <latitude>29.49093</latitude>
+      <longtitude>34.20039</longtitude>
+      <name>Otter, canadian river</name>
+   </Station>
+   <Station>
+      <id>81806</id>
+      <latitude>32.93365</latitude>
+      <longtitude>34.09586</longtitude>
+      <name>Nutcracker, clark's</name>
+   </Station>
+   <Station>
+      <id>75848</id>
+      <latitude>32.61674</latitude>
+      <longtitude>34.15553</longtitude>
+      <name>Fringe-eared oryx</name>
+   </Station>
+   <Station>
+      <id>67161</id>
+      <latitude>29.46317</latitude>
+      <longtitude>34.41406</longtitude>
+      <name>Bird, black-throated butcher</name>
+   </Station>
+   <Station>
+      <id>81470</id>
+      <latitude>32.09235</latitude>
+      <longtitude>34.10662</longtitude>
+      <name>Cape clawless otter</name>
+   </Station>
+   <Station>
+      <id>58585</id>
+      <latitude>32.67568</latitude>
+      <longtitude>34.1928</longtitude>
+      <name>Tarantula</name>
+   </Station>
+   <Station>
+      <id>88722</id>
+      <latitude>29.53122</latitude>
+      <longtitude>34.12794</longtitude>
+      <name>Red-capped cardinal</name>
+   </Station>
+   <Station>
+      <id>98933</id>
+      <latitude>32.55204</latitude>
+      <longtitude>34.92088</longtitude>
+      <name>Nilgai</name>
+   </Station>
+   <Station>
+      <id>29191</id>
+      <latitude>30.32631</latitude>
+      <longtitude>34.98564</longtitude>
+      <name>Eastern quoll</name>
+   </Station>
+   <Station>
+      <id>15698</id>
+      <latitude>32.15458</latitude>
+      <longtitude>34.76987</longtitude>
+      <name>Australian masked owl</name>
+   </Station>
+   <Station>
+      <id>64525</id>
+      <latitude>29.82443</latitude>
+      <longtitude>34.24297</longtitude>
+      <name>Turkey vulture</name>
+   </Station>
+   <Station>
+      <id>98120</id>
+      <latitude>29.78773</latitude>
+      <longtitude>34.52399</longtitude>
+      <name>Opossum, american virginia</name>
+   </Station>
+   <Station>
+      <id>73603</id>
+      <latitude>31.6367</latitude>
+      <longtitude>34.21198</longtitude>
+      <name>Jackal, indian</name>
+   </Station>
+   <Station>
+      <id>67732</id>
+      <latitude>30.05103</latitude>
+      <longtitude>34.03461</longtitude>
+      <name>Tern, white-winged black</name>
+   </Station>
+   <Station>
+      <id>93205</id>
+      <latitude>31.98763</latitude>
+      <longtitude>34.4225</longtitude>
+      <name>Scaly-breasted lorikeet</name>
+   </Station>
+   <Station>
+      <id>36082</id>
+      <latitude>32.31187</latitude>
+      <longtitude>34.39245</longtitude>
+      <name>Otter, oriental short-clawed</name>
+   </Station>
+   <Station>
+      <id>92459</id>
+      <latitude>31.48457</latitude>
+      <longtitude>34.30741</longtitude>
+      <name>Deer, mule</name>
+   </Station>
+   <Station>
+      <id>82359</id>
+      <latitude>29.08458</latitude>
+      <longtitude>34.85855</longtitude>
+      <name>Ibis, glossy</name>
+   </Station>
+   <Station>
+      <id>63022</id>
+      <latitude>31.04304</latitude>
+      <longtitude>34.02362</longtitude>
+      <name>Silver gull</name>
+   </Station>
+   <Station>
+      <id>82149</id>
+      <latitude>31.52144</latitude>
+      <longtitude>34.34232</longtitude>
+      <name>Lapwing, southern</name>
+   </Station>
+   <Station>
+      <id>89546</id>
+      <latitude>32.47396</latitude>
+      <longtitude>34.10863</longtitude>
+      <name>Ornate rock dragon</name>
+   </Station>
+   <Station>
+      <id>85748</id>
+      <latitude>31.4177</latitude>
+      <longtitude>34.34471</longtitude>
+      <name>Bat, madagascar fruit</name>
+   </Station>
+   <Station>
+      <id>96622</id>
+      <latitude>29.07111</latitude>
+      <longtitude>34.39751</longtitude>
+      <name>Raccoon dog</name>
+   </Station>
+   <Station>
+      <id>25691</id>
+      <latitude>32.14416</latitude>
+      <longtitude>34.49624</longtitude>
+      <name>Brown antechinus</name>
+   </Station>
+   <Station>
+      <id>60489</id>
+      <latitude>29.11886</latitude>
+      <longtitude>34.72768</longtitude>
+      <name>Lion, south american sea</name>
+   </Station>
+   <Station>
+      <id>68664</id>
+      <latitude>31.8387</latitude>
+      <longtitude>34.8911</longtitude>
+      <name>Macaw, scarlet</name>
+   </Station>
+   <Station>
+      <id>65563</id>
+      <latitude>29.48578</latitude>
+      <longtitude>34.62165</longtitude>
+      <name>Heron, black-crowned night</name>
+   </Station>
+   <Station>
+      <id>62734</id>
+      <latitude>31.0355</latitude>
+      <longtitude>34.29765</longtitude>
+      <name>Lizard, collared</name>
+   </Station>
+   <Station>
+      <id>19497</id>
+      <latitude>29.68434</latitude>
+      <longtitude>34.1672</longtitude>
+      <name>Cat, toddy</name>
+   </Station>
+   <Station>
+      <id>65125</id>
+      <latitude>32.79056</latitude>
+      <longtitude>34.18884</longtitude>
+      <name>Common seal</name>
+   </Station>
+   <Station>
+      <id>89774</id>
+      <latitude>31.02828</latitude>
+      <longtitude>34.12823</longtitude>
+      <name>Grey lourie</name>
+   </Station>
+   <Station>
+      <id>61934</id>
+      <latitude>30.85661</latitude>
+      <longtitude>34.65253</longtitude>
+      <name>Mexican boa</name>
+   </Station>
+   <Station>
+      <id>55004</id>
+      <latitude>32.78574</latitude>
+      <longtitude>34.34329</longtitude>
+      <name>Starfish, crown of thorns</name>
+   </Station>
+   <Station>
+      <id>85501</id>
+      <latitude>31.46788</latitude>
+      <longtitude>34.52017</longtitude>
+      <name>Kirk's dik dik</name>
+   </Station>
+   <Station>
+      <id>24794</id>
+      <latitude>29.509</latitude>
+      <longtitude>34.2353</longtitude>
+      <name>Gull, silver</name>
+   </Station>
+   <Station>
+      <id>45770</id>
+      <latitude>31.92745</latitude>
+      <longtitude>34.95009</longtitude>
+      <name>Marine iguana</name>
+   </Station>
+   <Station>
+      <id>82543</id>
+      <latitude>29.52012</latitude>
+      <longtitude>34.57239</longtitude>
+      <name>Red phalarope</name>
+   </Station>
+   <Station>
+      <id>73334</id>
+      <latitude>29.46878</latitude>
+      <longtitude>34.6013</longtitude>
+      <name>Dragon, western bearded</name>
+   </Station>
+   <Station>
+      <id>63604</id>
+      <latitude>31.19973</latitude>
+      <longtitude>34.64011</longtitude>
+      <name>Galapagos penguin</name>
+   </Station>
+   <Station>
+      <id>87309</id>
+      <latitude>31.35858</latitude>
+      <longtitude>34.23942</longtitude>
+      <name>Spotted hyena</name>
+   </Station>
+   <Station>
+      <id>97961</id>
+      <latitude>29.23173</latitude>
+      <longtitude>34.81439</longtitude>
+      <name>Flamingo, greater</name>
+   </Station>
+   <Station>
+      <id>82635</id>
+      <latitude>30.75812</latitude>
+      <longtitude>34.53559</longtitude>
+      <name>Dromedary camel</name>
+   </Station>
+   <Station>
+      <id>49659</id>
+      <latitude>32.64928</latitude>
+      <longtitude>34.32626</longtitude>
+      <name>African wild dog</name>
+   </Station>
+   <Station>
+      <id>34463</id>
+      <latitude>32.52077</latitude>
+      <longtitude>34.49229</longtitude>
+      <name>Wallaroo, common</name>
+   </Station>
+   <Station>
+      <id>41721</id>
+      <latitude>29.56647</latitude>
+      <longtitude>34.62221</longtitude>
+      <name>Tsessebe</name>
+   </Station>
+   <Station>
+      <id>84711</id>
+      <latitude>31.01211</latitude>
+      <longtitude>34.96946</longtitude>
+      <name>Albatross, galapagos</name>
+   </Station>
+   <Station>
+      <id>90626</id>
+      <latitude>29.46917</latitude>
+      <longtitude>34.29621</longtitude>
+      <name>South African hedgehog</name>
+   </Station>
+   <Station>
+      <id>79496</id>
+      <latitude>30.88611</latitude>
+      <longtitude>34.57314</longtitude>
+      <name>Northern elephant seal</name>
+   </Station>
+   <Station>
+      <id>17950</id>
+      <latitude>29.16851</latitude>
+      <longtitude>34.86014</longtitude>
+      <name>Flycatcher, tyrant</name>
+   </Station>
+   <Station>
+      <id>34643</id>
+      <latitude>29.41017</latitude>
+      <longtitude>34.89422</longtitude>
+      <name>Coatimundi, ring-tailed</name>
+   </Station>
+   <Station>
+      <id>27506</id>
+      <latitude>30.22413</latitude>
+      <longtitude>34.53223</longtitude>
+      <name>Prairie falcon</name>
+   </Station>
+   <Station>
+      <id>22161</id>
+      <latitude>32.21781</latitude>
+      <longtitude>34.29771</longtitude>
+      <name>Carpet python</name>
+   </Station>
+   <Station>
+      <id>74844</id>
+      <latitude>29.50634</latitude>
+      <longtitude>34.73301</longtitude>
+      <name>Tern, white-winged</name>
+   </Station>
+   <Station>
+      <id>47489</id>
+      <latitude>30.41859</latitude>
+      <longtitude>34.50852</longtitude>
+      <name>Long-necked turtle</name>
+   </Station>
+   <Station>
+      <id>17822</id>
+      <latitude>30.33704</latitude>
+      <longtitude>34.92141</longtitude>
+      <name>Komodo dragon</name>
+   </Station>
+   <Station>
+      <id>23625</id>
+      <latitude>31.94122</latitude>
+      <longtitude>34.44302</longtitude>
+      <name>White-lipped peccary</name>
+   </Station>
+   <Station>
+      <id>62712</id>
+      <latitude>29.99031</latitude>
+      <longtitude>34.76776</longtitude>
+      <name>Tarantula</name>
+   </Station>
+   <Station>
+      <id>92037</id>
+      <latitude>31.4179</latitude>
+      <longtitude>34.78152</longtitude>
+      <name>Jackrabbit, white-tailed</name>
+   </Station>
+   <Station>
+      <id>92167</id>
+      <latitude>30.48563</latitude>
+      <longtitude>34.60608</longtitude>
+      <name>Barrows goldeneye</name>
+   </Station>
+   <Station>
+      <id>48230</id>
+      <latitude>30.51356</latitude>
+      <longtitude>34.33227</longtitude>
+      <name>Blue-footed booby</name>
+   </Station>
+   <Station>
+      <id>38397</id>
+      <latitude>31.26196</latitude>
+      <longtitude>34.70091</longtitude>
+      <name>Fox, grey</name>
+   </Station>
+   <Station>
+      <id>17509</id>
+      <latitude>30.84605</latitude>
+      <longtitude>34.87882</longtitude>
+      <name>Coyote</name>
+   </Station>
+   <Station>
+      <id>61745</id>
+      <latitude>31.26385</latitude>
+      <longtitude>34.02734</longtitude>
+      <name>Common brushtail possum</name>
+   </Station>
+   <Station>
+      <id>15495</id>
+      <latitude>29.35543</latitude>
+      <longtitude>34.61991</longtitude>
+      <name>Starling, greater blue-eared</name>
+   </Station>
+   <Station>
+      <id>79626</id>
+      <latitude>30.54829</latitude>
+      <longtitude>34.35979</longtitude>
+      <name>Snowy sheathbill</name>
+   </Station>
+   <Station>
+      <id>48150</id>
+      <latitude>30.62695</latitude>
+      <longtitude>34.6835</longtitude>
+      <name>Cook's tree boa</name>
+   </Station>
+   <Station>
+      <id>25400</id>
+      <latitude>30.79045</latitude>
+      <longtitude>34.76984</longtitude>
+      <name>Dolphin, bottle-nose</name>
+   </Station>
+   <Station>
+      <id>97865</id>
+      <latitude>29.5904</latitude>
+      <longtitude>34.43779</longtitude>
+      <name>Dik, kirk's dik</name>
+   </Station>
+   <Station>
+      <id>34571</id>
+      <latitude>31.77791</latitude>
+      <longtitude>34.79864</longtitude>
+      <name>Malabar squirrel</name>
+   </Station>
+   <Station>
+      <id>35348</id>
+      <latitude>32.24623</latitude>
+      <longtitude>34.12853</longtitude>
+      <name>Boa, cook's tree</name>
+   </Station>
+   <Station>
+      <id>64792</id>
+      <latitude>30.5906</latitude>
+      <longtitude>34.87104</longtitude>
+      <name>Dolphin, striped</name>
+   </Station>
+   <Station>
+      <id>75432</id>
+      <latitude>31.32918</latitude>
+      <longtitude>34.3145</longtitude>
+      <name>Common waterbuck</name>
+   </Station>
+   <Station>
+      <id>63396</id>
+      <latitude>30.96072</latitude>
+      <longtitude>34.68324</longtitude>
+      <name>Nilgai</name>
+   </Station>
+   <Station>
+      <id>77838</id>
+      <latitude>31.00142</latitude>
+      <longtitude>34.88445</longtitude>
+      <name>Two-banded monitor</name>
+   </Station>
+   <Station>
+      <id>61588</id>
+      <latitude>31.81324</latitude>
+      <longtitude>34.27471</longtitude>
+      <name>Squirrel, smith's bush</name>
+   </Station>
+   <Station>
+      <id>81904</id>
+      <latitude>32.26425</latitude>
+      <longtitude>34.39343</longtitude>
+      <name>Goose, spur-winged</name>
+   </Station>
+</Stations>
